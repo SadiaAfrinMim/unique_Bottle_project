@@ -1,0 +1,23 @@
+.bottle-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border: 2px solid pink;
+    padding: 20px;
+    margin: 12px;
+    border-radius: 12px;
+   
+}
+.sing-bottle{
+    border: 2px solid pink;
+    padding: 20px;
+    margin: 12px;
+    border-radius: 12px;
+    background-color: rgba(255, 192, 203, 0.099);
+}
+
+.sing-bottle img{
+    width: 300px;
+    border-radius: 12px;
+    
+
+}
